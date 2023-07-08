@@ -1,6 +1,9 @@
-# Pedra, Papel e Tesolra
+# Cálculadora de Empréstimos
 
-Projeto criado para abrigar o um jogo de pedra, pepel e tesolra, para aprender e se divertir não tem nada melhor 😜.
+Projeto criado para abrigar uma cálculado de empréstimos, aplicando os conhecimento do livro "JavaScript: O Guia Definitivo." 😜.
+
+Referências: 
+    - JavaScript: O Guia Definitivo, de David Flanagan (Bookman).
 
 ## Executar o projeto.
 
