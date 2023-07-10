@@ -14,10 +14,6 @@ reload.addEventListener("click", () => {
   }, 2000);
 });
 
-window.addEventListener("unload", (event) => {
-  log.textContent += `Triggered event beforeunload -> 4 - beforeunload process in ${getTIMESTAMP()} \n`;
-});
-
 window.addEventListener("load", (event) => {
   log.textContent += `Triggered event LOAD -> 1 - Load process in ${getTIMESTAMP()} \n`;
 });
